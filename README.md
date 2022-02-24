@@ -5,7 +5,7 @@ A minimalist Bank app built with vanilla Javascript
 <h1 style="color:red;">View on Desktop Mode</h1>
 
 <b style="font-weight:bold;">FEATURES</b>
-1)	Login(jd,1111) (js,2222)
+1)	Login(js,1111) (jd,2222)
 2)	Transfer to a valid user
 3)	Get Loan (If a condition is true)
 4)	Close Account.
