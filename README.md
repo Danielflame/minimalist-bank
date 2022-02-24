@@ -1,18 +1,20 @@
-# minimalist-bank
+# Minimalist-Bank
 A minimalist Bank app built with vanilla Javascript
 
-Project Name: Minimalist Bank 
-View on Desktop Mode
-Features
+<h3><b>Project Name: Minimalist Bank</b></h3>
+<h1 style="color:red;">View on Desktop Mode</h1>
 
-Login(jd,1111) (js,2222)
-Transfer
-Get Loan
-Close Account
-Major Syntax Used
+<b style="font-weight:bold;">FEATURES</b>
+1)	Login(jd,1111) (js,2222)
+2)	Transfer to a valid user
+3)	Get Loan (If a condition is true)
+4)	Close Account.
 
-Event Listeners
-DOM Manipulation
-View game here here
+<b style="font-weight:bold;">Major Syntax Used</b>
+1)	Arrays
+2)	DOM Manipulation
+
+View app here <a href="https://danielflame.github.io/Guess-My-Number/">here</a>
 
 CSS Styling by Jonas Schmedtmann
+
