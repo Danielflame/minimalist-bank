@@ -8,7 +8,9 @@ A minimalist Bank app built with vanilla Javascript
 1)	Login(js,1111) (jd,2222)
 2)	Transfer to a valid user
 3)	Get Loan (If a condition is true)
-4)	Close Account.
+4)      Sort Deposit and Withdrawal in ascending/descending order
+5)      Logs you out after 5 mins of inactivity
+7)	Close Account.
 
 <b style="font-weight:bold;">Major Syntax Used</b>
 1)	Arrays
